@@ -1,5 +1,8 @@
 ## Portfolio
 
+**This Portfolio contains a compliation of data science projects completed by me for academic, personal interests, and exploration of machine learning algorithm purposes.**
+  
+
 ---
 
 ### Machine Learning 
