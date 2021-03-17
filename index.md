@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning 
 
-[Project 1 Title](/sample_page)
+[Predict the Success of Bank Marketing](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
