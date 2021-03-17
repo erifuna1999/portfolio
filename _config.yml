@@ -3,8 +3,6 @@ logo: "/images//eriko_professional_1%20(2).jpg?raw=true" # your photo (or logo) 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a Data Scientist Intern at Bold, San Mateo. MS in Data Science at University of San Francico. BA in Applied Mathematics at University of California, Berkeley.
   <br><br>
-  This Portfolio contains a compliation of data science projects completed by me for academic, personal interests, and exploration of machine learning algorithm purposes.
-  <br><br>
   <a href="https://www.linkedin.com/in/eriko-funasato-503/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
